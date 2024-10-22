@@ -1,4 +1,4 @@
-# dice.py
+# dice_roller/dice.py
 class Dice():
     def roll(self):
         return 1
